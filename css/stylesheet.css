@@ -1,4 +1,3 @@
-extend ' .fig-margin' has no matches
 @charset "UTF-8";
 /*
  * @author: Dino Cajic
@@ -186,6 +185,7 @@ ul.nav li.right {
   margin-right: 6%;
 }
 #about-dino > figure .red {
+  margin-right: 6%;
   border-color: #c0392b;
   background-color: #c0392b;
   color: #FFFFFF;
